@@ -1,0 +1,101 @@
+nav {
+  margin: 10px;
+}
+
+.sideitem {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sideitem img {
+  margin-top: 15px;
+  border-radius: 20px;
+  margin-left: 230px;
+}
+
+.bungkus {
+  display: flex;
+}
+
+.miditem img {
+  display: flex;
+  margin-top: 60px;
+  border-radius: 40px;
+}
+
+.rightitem h1,
+h3,
+hr {
+  display: flex;
+  margin-top: 100px;
+  border-radius: 40px;
+  margin-left: 40px;
+}
+
+.rightitem b {
+  margin-left: 40px;
+}
+
+.cart {
+  margin-left: 38px;
+  border: 0px solid;
+  background-color: pink;
+  width: 190px;
+  border-radius: 20px;
+  margin-top: 18px;
+  margin-bottom: 22px;
+}
+
+pre {
+  margin-left: 40px;
+}
+
+.choice-chair {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.choice-item {
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  margin-bottom: 5%;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+
+.end {
+  margin-left: -50px;
+}
+
+.card-img2 {
+  margin-left: 90px;
+}
+
+.aa {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bungkus .shipping_form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
